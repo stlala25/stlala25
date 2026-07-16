@@ -2,30 +2,27 @@
   <h2>sarthak@mars: ~</h2>
 </div>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" valign="top">
-      <pre style="font-family: monospace; font-size: 9px; line-height: 9px; font-weight: bold; color: #a3b8c2;">
+
                            lKOdc:;;.  ...;oOo                         
-                   'KXKKOk0Kkxooxdl:;,,c:;'.':d0,                   
-                XKKxO0KXNWWWXKKKKKKXKOOkOOOl'.   'l0.               
-             Xdo0KXNNNNNWWNNNNNNXXXXXNNXXKKKkl,.     :0             
-          ;d,;dXNXXNNNNNNWWNXXXNNWWWWWNXNWNNNNXKkl;    .o:          
-        ;o.;xKNNNNWWNNNNWWNNXXNNNWWWWWWNNWNWWWWNXXKOc.    l:        
-       x. .c0XNNNNNNNNWWWNXXNXXXXK000000KKKKXNWWWWNNXKl     d.      
-     c' .xkXXNWWNNNNNWWWNX0Oxollcc:c::::cclodxKWWWNNNXX0.    .l     
-    o   .OXNWWWNNNWNWWNKkoc:;;,,,,,,,,,,;;;:ccd0WWWNNNNXK.     o    
-   l    '0NWWWWWNWNKKOdl:;;,,,,'''''''',,,;;:cldXWWWNXXNXO.     l   
-  c      :KNWWWWNN0kdolc:;,,,,''''''''',,,;;::loONXNXXXNN0,      c  
- ;        cXWWWWNKkdolcc:;,,,'''''''''',,,;;::clkXXNNNXNXd        : 
- '        .KWWWWN0doolc:;,'''''''..''''''',;::ccd0NWWNNXc         . 
-,          dNWWWNxollllcc::;,'''...',,::::ccc:cccdXWWNWO           ;
-'           0NWW0clloodxxkkkxoc;,',codkkxddoolcc,:KNNNX.           '
-.           .KXWxooodkOxO00xkxodlcolldxkK0xkOdllllkWXd.             
+                   'KXKKOk0Kkxooxdl:;,,c:;'.'                   
+                XKKxO0KXNWWWXKKKKKKXKOOkOOOl'.                  
+             Xdo0KXNNNNNWWNNNNNNXXXXXNNXXKKKkl,.              
+          ;d,;dXNXXNNNNNNWWNXXXNNWWWWWNXNWNNNNXKkl;          
+           ;xKNNNNWWNNNNWWNNXXNNNWWWWWWNNWNWWWWNXXKOc.        
+          .c0XNNNNNNNNWWWNXXNXXXXK000000KKKKXNWWWWNNXKl      
+        .xkXXNWWNNNNNWWWNX0Oxollcc:c::::cclodxKWWWNNNXX0.         
+        .OXNWWWNNNWNWWNKkoc:;;,,,,,,,,,,;;;:ccd0WWWNNNNXK.         
+        '0NWWWWWNWNKKOdl:;;,,,,'''''''',,,;;:cldXWWWNXXNXO.       
+         :KNWWWWNN0kdolc:;,,,,''''''''',,,;;::loONXNXXXNN0,      
+          cXWWWWNKkdolcc:;,,,'''''''''',,,;;::clkXXNNNXNXd      
+          .KWWWWN0doolc:;,'''''''..''''''',;::ccd0NWWNNXc       
+           dNWWWNxollllcc::;,'''...',,::::ccc:cccdXWWNWO       
+            0NWW0clloodxxkkkxoc;,',codkkxddoolcc,:KNNNX.       
+            .KXWxooodkOxO00xkxodlcolldxkK0xkOdllllkWXd.             
              :kXlclloxxdoxdlolol,',lcclloolodlcl::lXll              
               lk::::;::;;;;;:lo:,'';o:,,,,,,;,::;;:O:'              
              .ll:::;;;;;;:;:co:,..',;l::::;;;,',;;:l:'              
-.            .ll:::;;,,''''':;:c,';:,;,''''''',,;;:::.             .
+             .ll:::;;,,''''':;:c,';:,;,''''''',,;;:::.             
              ':cc:::;,,'''',clxxlccdo:,'...'',,;;::,;.              
              .:cc::c:;,,,',,,;::;;;;;,'''''',;;;::;,,               
                  ;ccc:;;;;::::::;;;;;;;;;,,,,;;::'.                 
