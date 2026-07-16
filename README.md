@@ -1,8 +1,3 @@
-<div align="center">
-  <h2>sarthak@mars: ~</h2>
-</div>
-
-
                            lKOdc:;;.  ...;oOo                         
                    'KXKKOk0Kkxooxdl:;,,c:;'.'                   
                 XKKxO0KXNWWWXKKKKKKXKOOkOOOl'.                  
@@ -36,8 +31,7 @@
                 :dKk..;oodddxxkkkkxxxdc,.      .xXXX                
                     ....,oooodooool;'.        .k.                   
                           ':lllc,.                                     
-      </pre>
-    </td>
+      
 
     <td align="left" valign="top">
       <b><span style="color: #4EAA25;">sarthak</span>@<span style="color: #4EAA25;">mars</span></b><br>
